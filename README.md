@@ -14,4 +14,4 @@ A chatbot that answers questions on a specific topic; interactions are saved in 
 
 ###### Tools and technologies used:
 
-**n8n, IA, AirTable, Supabase, Zendesk, HTML, CSS, JavaScript, Google Docs, Google Drive, Gmail, Postgres.**
+**n8n, AI, AirTable, Supabase, Zendesk, HTML, CSS, JavaScript, Google Docs, Google Drive, Gmail, Postgres.**
