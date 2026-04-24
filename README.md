@@ -1,4 +1,4 @@
-# W9 - Customer Care
+# W9 - Customer support and Customer Care
 
 A chatbot that answers questions on a specific topic; interactions are saved in **AirTable** and in **Supabase**. If the chatbot is unable to answer, a ticket is opened on Zendesk with the details. Furthermore, following a web request, it responds with a page containing information about the saved interactions, including graphical representations. Finally, it identifies critical issues in the saved responses and sends the resulting **Google Doc** report to the company manager.
 
